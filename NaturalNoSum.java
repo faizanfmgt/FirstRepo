@@ -6,6 +6,6 @@ public class NaturalNoSum {
             sum +=i;
 
         }
-        System.out.println("The sum of all negative from 1000000 to 100 is: " + sum);
+        System.out.println("The sum of all negative from 1 to 100 is: " + sum);
     }
 }
